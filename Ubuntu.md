@@ -15,11 +15,6 @@
 > * [Information](http://danielkummer.github.io/git-flow-cheatsheet/index.html)
 > * `apt-get install git-flow`
 
-* ###Git-flow 
-> * Git-flow are a set of git extensions to provide high-level repository operations for Vincent Driessen's branching model
-> * [Information](http://danielkummer.github.io/git-flow-cheatsheet/index.html)
-> * `apt-get install git-flow`
-
 * ###Zsh with oh-my-zsh
 > * Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 > * [Information zsh](http://www.zsh.org/)  
