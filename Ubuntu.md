@@ -3,7 +3,19 @@
 > Useful tools list for Ubuntu OS
 
 --------------
-###TOOL LIST
+### Index
+- [Git](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#git) 
+- [Git-flow](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#git-flow) 
+- [oh-my-ZSH](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#zsh-with-oh-my-zsh) 
+- [Unity Tweak Tool](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#unity-tweak-tool) 
+- [Terminator](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#terminator) 
+- [Docky](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#docky) 
+- [Nautilus Open Terminal](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#nautilus-open-terminal) 
+- [Numix theme and icons](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#numix-theme-and-icons)
+- [Spotify](https://github.com/paufsc/GNU-Linux-tools/blob/master/Ubuntu.md#Spotify)
+
+----------
+### TOOL LIST
  
 * ###Git 
 > * Distributed revision control and Source code management (SCM) system
@@ -45,5 +57,16 @@
 > * Nautilus plugin for opening terminals in arbitrary local paths with mouse right click
 > * [Information](http://packages.ubuntu.com/lucid/gnome/nautilus-open-terminal) 
 > * `sudo apt-get install nautilus-open-terminal` or you can install from Ubuntu Software Center
+
+* ### Numix theme and icons
+> * [List of best icon themes for Ubuntu 16.04 LTS](https://itsfoss.com/best-icon-themes-ubuntu-16-04/)
+> * [Information](https://itsfoss.com/install-numix-ubuntu/)
+> Open a terminal (`Ctrl+Alt+T` in Ubuntu) <br>
+> `sudo add-apt-repository ppa:numix/ppa` <br>
+> `sudo apt update ` <br>
+> `sudo apt install numix-gtk-theme numix-icon-theme-circle ` <br>
+
+* ### Spotify 
+> * [Installation & Information](https://linuxconfig.org/installation-of-spotify-client-on-ubuntu-16-04-xenial-xerus-lts-64-bit-linux)
 
 ---------------------- 
