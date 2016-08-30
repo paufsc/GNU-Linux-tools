@@ -54,11 +54,12 @@
 * ### Numix theme and icons
 > * [List of best icon themes for Ubuntu 16.04 LTS](https://itsfoss.com/best-icon-themes-ubuntu-16-04/)
 > * [Information](https://itsfoss.com/install-numix-ubuntu/)
-> Open a terminal (`Ctrl+Alt+:tab:` in Ubuntu)
-```bash
- sudo add-apt-repository ppa:numix/ppa
- sudo apt update 
- sudo apt install numix-gtk-theme numix-icon-theme-circle 
-```
+> Open a terminal (`Ctrl+Alt+T` in Ubuntu)
+> `sudo add-apt-repository ppa:numix/ppa`
+> `sudo apt update `
+> `sudo apt install numix-gtk-theme numix-icon-theme-circle `
+
+* ### Spotify 
+> * [Installation & Information](https://linuxconfig.org/installation-of-spotify-client-on-ubuntu-16-04-xenial-xerus-lts-64-bit-linux)
 
 ---------------------- 
